@@ -1,11 +1,7 @@
 {
-  //
-  //,
   
-  "homepage" : "https://vp337247.github.io/",
   "name": "e-commerce",
   "version": "1.0.0",
-  
   "description": "",
   "main": "server.js",
   "scripts": {
