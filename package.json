@@ -1,7 +1,7 @@
 {
-  "name": "e-commerce",
-  "version": "1.0.0",
-  "homepage" : "https://vp337247.github.io/MERN---Shop/"
+  //"name": "e-commerce",
+  //"version": "1.0.0",
+  
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -12,6 +12,11 @@
     "data:import": "node backend/seederScript"
 
   },
+  {
+  "homepage" : "https://jmrocco.github.io/",
+  "name": "my-website",
+  "version": "0.1.0",
+  }
   "keywords": [],
   "author": "",
   "license": "ISC",
